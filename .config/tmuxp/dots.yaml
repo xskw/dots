@@ -1,0 +1,7 @@
+session_name: dots
+windows:
+  - window_name: nvim
+    start_directory: ~/dots
+    panes:
+      - shell_command:
+        - nvim
